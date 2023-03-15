@@ -1,4 +1,4 @@
-package org.jfree.data.test;
+package JFreeChartTests;
 
 import static org.junit.Assert.*; 
 import org.jfree.data.Range; 
