@@ -95,14 +95,16 @@ Mutation = → KILLED
 # Report all the statistics and the mutation score for each test class (screenshots)
 
 Mutation Scores from Lab 3 (old statistics)
+[https://raw.githubusercontent.com/aarushirc14/seng438-a4-group6/main/Images/oldmutation.png](https://raw.githubusercontent.com/aarushirc14/seng438-a4-group6/main/Images/oldmutation.png)
+
+
+Mutation Scores from Lab 4 (new statistics)
 
 [https://lh6.googleusercontent.com/iBxl0RufcIPSUHBt3KKF8eHU-EMk9KBOiOfAvlwsCi2tRmUIMP0O2gquaTzLHVXpo_-TxvQoq02URn664808kaOxGVIuJAwfgBKaTWqr6tljhVglmkD6GR6LHANoexb6UZEholclzXnkc2yfl5R7D0k](https://lh6.googleusercontent.com/iBxl0RufcIPSUHBt3KKF8eHU-EMk9KBOiOfAvlwsCi2tRmUIMP0O2gquaTzLHVXpo_-TxvQoq02URn664808kaOxGVIuJAwfgBKaTWqr6tljhVglmkD6GR6LHANoexb6UZEholclzXnkc2yfl5R7D0k)
 
 [https://lh3.googleusercontent.com/nesRdStvfbH7XKVM3KpFx7T4-3faa5pLbATL3C_qZKbHaX25jlpVvGxvHyidq6T7hl10e9Z2K3cbKCSkWY81zIFx4OsqPOJDTzNUr4kdzPN12QhicM8dLaCferLwj0wntmxChBsz2G6TrPV6ZjqZqXk](https://lh3.googleusercontent.com/nesRdStvfbH7XKVM3KpFx7T4-3faa5pLbATL3C_qZKbHaX25jlpVvGxvHyidq6T7hl10e9Z2K3cbKCSkWY81zIFx4OsqPOJDTzNUr4kdzPN12QhicM8dLaCferLwj0wntmxChBsz2G6TrPV6ZjqZqXk)
 
 [https://lh6.googleusercontent.com/wS7yIYuBVh8WRs6s_9drs8rwUso_VHGjkrGRkYA2zOQsSwAM7YBoVgAM4zghNiuC8ZcsRpBHRrSDDAFooWjA0fAuOhyjqg1oyQsJmyEocpRA7d8iSt3eZ_ZJCYK_JRxSj5yV3J9zHQaLP0jX5u3o_Lo](https://lh6.googleusercontent.com/wS7yIYuBVh8WRs6s_9drs8rwUso_VHGjkrGRkYA2zOQsSwAM7YBoVgAM4zghNiuC8ZcsRpBHRrSDDAFooWjA0fAuOhyjqg1oyQsJmyEocpRA7d8iSt3eZ_ZJCYK_JRxSj5yV3J9zHQaLP0jX5u3o_Lo)
-
-Mutation Scores from Lab 4 (new statistics)
 
 # Analysis drawn on the effectiveness of each of the test classes
 
